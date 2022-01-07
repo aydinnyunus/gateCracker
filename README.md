@@ -29,6 +29,10 @@
 ![github-small](images/website.png)
 
 
+## Blog Post
+
+https://sockpuppets.medium.com/bypassing-door-passwords-4004b8d7995
+
 ## Bug / Feature Request :man_technologist:
 If you find a bug (the application couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/aydinnyunus/gateCracker/issues/new) by including your search query and the expected result.
 
