@@ -43,7 +43,8 @@ Before running gateCracker, you need to set up and run the REST API server:
 
 ## Blog Post
 
-[https://sockpuppets.medium.com/bypassing-door-passwords-4004b8d7995](https://sockpuppets.medium.com/bypassing-door-passwords-4004b8d7995)
+- Medium: [https://sockpuppets.medium.com/bypassing-door-passwords-4004b8d7995](https://sockpuppets.medium.com/bypassing-door-passwords-4004b8d7995)
+- GitHub Pages: [https://aydinnyunus.github.io/2022/01/07/bypassing-door-passwords/](https://aydinnyunus.github.io/2022/01/07/bypassing-door-passwords/)
 
 ## Bug / Feature Request 👨‍💻
 
