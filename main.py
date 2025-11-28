@@ -3,7 +3,7 @@ import requests
 import json
 
 
-root = "https://nameless-oasis-07242.herokuapp.com/"
+root = "http://localhost:8080/"
 smartlocks_url = root + 'smartLocks/'
 routers = root + 'routers/'
 ics = root + "ics/"
